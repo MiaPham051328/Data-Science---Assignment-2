@@ -1,7 +1,7 @@
 # Pipelnes using Pycaret3, Scikit-learn and Yellowbrick
 
 # Overview
-In this assignment, I still use the Capstone project's processed dataset ([Hotel Revenue](https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue)) and build pipelines related to the is_canceled field.
+In this assignment, I still use the Capstone project's processed dataset [Hotel Revenue](https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue) and build pipelines related to the is_canceled field.
 
 # Details
 * Part 1: Demonstrating a pipeline by using Pycaret3
