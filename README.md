@@ -14,7 +14,7 @@ Based on the model training results of part 1 I will choose another model to dem
 * Pandas
 * Pycaret3
 * Scikit-learn
-* Yllowbrick
+* Yellowbrick
 
 # Visualization
 
