@@ -18,9 +18,11 @@ Based on the model training results of part 1 I will choose another model to dem
 
 # Visualization
 Part 1: Pycaret Pipeline
+
 ![Pycaret Pipeline](https://user-images.githubusercontent.com/122539964/232178699-720c3df3-3144-41cb-9a9e-fa9fb1bed344.png)
 
 Part 2: Yellowbrick Confusion Matrix
+
 ![Confusion Matrix](https://user-images.githubusercontent.com/122539964/232178755-3b08c869-7dc2-4e17-b8b1-0bcd0c3d6bbc.png)
 
 # Some of evaluation models of part 1
