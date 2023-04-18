@@ -27,7 +27,12 @@ Part 2: Yellowbrick Confusion Matrix
 
 ![Confusion Matrix](https://user-images.githubusercontent.com/122539964/232178755-3b08c869-7dc2-4e17-b8b1-0bcd0c3d6bbc.png)
 
-# Some of evaluation models of part 1
+# Work_through
+
+Click [Pipelines] to watch the video.
+
+### Some of evaluation models of part 1
+
 * Feature Important Plot
 
 ![Feature Important](https://user-images.githubusercontent.com/122539964/232178832-0d6f1316-2aa9-420b-8d0d-0d966312d371.png)
