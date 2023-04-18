@@ -29,7 +29,7 @@ Part 2: Yellowbrick Confusion Matrix
 
 # Work-through
 
-Click [Pipelines](https://clipchamp.com/watch/41vqYXiUYqt) to watch the video.
+### Click [Pipelines](https://clipchamp.com/watch/41vqYXiUYqt) to watch the video.
 
 ### Some of evaluation models of part 1
 
